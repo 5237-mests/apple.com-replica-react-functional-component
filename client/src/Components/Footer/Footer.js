@@ -303,12 +303,12 @@ function Footer() {
 					</div>
 					<div className="text-center p-1">
 						<h2>
-							Built By:{" "}
+							Cloned By:{" "}
 							<a
-								href="https://www.biruk14.com/"
+								href="https://www.mesfen.com/"
 								target="_blank"
 								rel="noreferrer">
-								Biruk Kebede
+								Mesfin Mulugeta
 							</a>
 						</h2>
 					</div>
